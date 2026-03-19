@@ -1,6 +1,6 @@
 
 # Dispersion-Compensation
-# Dispersion Compensation
+
 
 ## Objective
 Design and simulate a fiber optic system using dispersion-compensating fiber to reduce chromatic dispersion.
@@ -69,11 +69,9 @@ The main physical components of this layout are:
 
 ---
 
-## Further Simulation and Analysis
-- Set the DCF length to 0 and run the simulation again.  
-- Record similar measurements for comparison.  
+## Calculation
+<img width="694" height="1280" alt="image" src="https://github.com/user-attachments/assets/0a11e491-fe84-4097-8d73-4c28fe4fca8d" />
+<img width="838" height="1280" alt="image" src="https://github.com/user-attachments/assets/4b359a10-796c-483f-9e76-69bdde5107a3" />
 
----
-
-## Conclusions
+## Conclusion
 Discuss the effectiveness of dispersion-compensating fiber and the ability of the calculations to engineer a viable system.
