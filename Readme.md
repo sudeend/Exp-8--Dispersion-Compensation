@@ -51,6 +51,10 @@ The main physical components of this layout are:
 
 ---
 
+## Block Diagram
+<img width="620" height="323" alt="image" src="https://github.com/user-attachments/assets/623f8165-829f-4c98-a060-20181af70e91" />
+
+
 ## Procedure
 - Adjust the laser power to obtain 0 dBm transmission output.  
 - Use the optical spectrum analyzer to determine the spectral width of the signal.  
